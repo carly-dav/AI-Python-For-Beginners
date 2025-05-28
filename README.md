@@ -4,5 +4,5 @@ To track projects from "AI Python for Beginners" Course, which teaches how to co
 Project 1:\
 Project 2:\
 Project 3:\
-Project 4:\
+Project 4:
 
