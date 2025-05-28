@@ -1,5 +1,5 @@
 # AI-Python-For-Beginners
-To track projects from "AI Python for Beginners" Course, which teaches how to code alongside AI
+To track projects from "AI Python for Beginners" Course, which teaches how to leverage Python programming with AI
 
 ## Learning Goals
 - Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization.
